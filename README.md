@@ -1,8 +1,8 @@
-#Mini-drone_with_picow-esp32
+# Mini-drone_with_picow-esp32
 
 I used the arduino IDE to write mpu6050 based flight control code for simple flight of a drone.
 
-##ESP32 & Picow
+## ESP32 & Picow
 
 The code adapts to hardware  including esp32 and Raspberry Pi Pico W, using wifi control.
 
